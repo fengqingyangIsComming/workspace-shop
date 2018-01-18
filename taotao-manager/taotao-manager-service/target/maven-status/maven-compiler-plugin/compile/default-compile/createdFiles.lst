@@ -1,0 +1,6 @@
+com\taotao\content\jedis\JedisClientPool.class
+com\taotao\service\impl\ItemServiceImpl.class
+com\taotao\service\listener\ItemChangeListener.class
+com\taotao\content\jedis\JedisClientCluster.class
+com\taotao\content\jedis\JedisClient.class
+com\taotao\service\impl\ItemCatServiceImpl.class
